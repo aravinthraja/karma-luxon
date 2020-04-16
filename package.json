@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/aravinthraja/karma-luxon.git"
   },
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
-  },
   "keywords": [
     "karma",
     "luxon"
