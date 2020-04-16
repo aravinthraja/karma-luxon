@@ -13,7 +13,7 @@ var createFramework = function(ver) {
 
 module.exports = {};
 
-fs.readdirSync(path.join(__dirname, 'moment')).forEach(function(file) {
+fs.readdirSync(path.join(__dirname, 'luxon')).forEach(function(file) {
     var framework = createFramework(file);
     framework.$inject = ['config.files'];
     module.exports['framework:' + path.basename(file, '.js')] = ['factory', framework];
