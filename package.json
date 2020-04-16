@@ -1,0 +1,23 @@
+{
+  "name": "karma-luxon",
+  "version": "1.0.0",
+  "description": "Karma adaptor for luxon.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aravinthraja/karma-luxon.git"
+  },
+  "keywords": [
+    "karma",
+    "luxon"
+  ],
+  "author": "aravinthraja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aravinthraja/karma-luxon/issues"
+  },
+  "homepage": "https://github.com/aravinthraja/karma-luxon#readme"
+}
